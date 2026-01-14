@@ -1,0 +1,7 @@
+{
+  "name": "TriviaAI: Live Host Game",
+  "description": "A real-time voice-interactive trivia game featuring dynamic AI hosts with distinct personalities. Powered by Gemini Live API, Search Grounding, and TTS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
